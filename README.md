@@ -1,2 +1,3 @@
 # k6-loadtest-example
-# K6-loadtest
+# Getting started:
+  docker-compose up -d influxdb grafana Or ./docker-compose.sh
